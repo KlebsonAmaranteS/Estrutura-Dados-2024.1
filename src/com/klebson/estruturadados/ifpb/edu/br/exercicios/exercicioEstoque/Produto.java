@@ -1,4 +1,4 @@
-package com.klebson.estruturadados.ifpb.edu.br.exercicios;
+package com.klebson.estruturadados.ifpb.edu.br.exercicios.exercicioEstoque;
 
 public class Produto {
     private String nome;

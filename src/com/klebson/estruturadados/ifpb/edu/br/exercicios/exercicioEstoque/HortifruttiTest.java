@@ -1,6 +1,6 @@
-package com.klebson.estruturadados.ifpb.edu.br.exercicios.teste;
+package com.klebson.estruturadados.ifpb.edu.br.exercicios.exercicioEstoque;
 
-import com.klebson.estruturadados.ifpb.edu.br.exercicios.ListaDuplaEncadeadaProduto;
+import com.klebson.estruturadados.ifpb.edu.br.exercicios.exercicioEstoque.ListaDuplaEncadeadaProduto;
 
 import java.util.Scanner;
 
