@@ -32,7 +32,6 @@ public class TabelaHash {
         novoNo.setProximo(tabela[posicao]);
         tabela[posicao] = novoNo;
 
-        // Debugging print
         System.out.println("Inserido: " + aluno.getNome() + " na posição " + posicao);
     }
 
