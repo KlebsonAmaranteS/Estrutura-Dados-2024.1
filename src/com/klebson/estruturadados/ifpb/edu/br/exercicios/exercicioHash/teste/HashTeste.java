@@ -15,9 +15,7 @@ public class HashTeste {
         tabelaHash.inserirValor(aluno3);
 
         System.out.println("Pegando aluno com matrícula 20232114: " + tabelaHash.pegarValor(20232114));
-        System.out.println("Pegando aluno com matrícula 20212345: " + tabelaHash.pegarValor(20221134));
-
-        tabelaHash.removerValor(1);
-        System.out.println("Pegando aluno com matrícula 20232114 (após remoção): " + tabelaHash.pegarValor(20232114));
+        System.out.println("Pegando aluno com matrícula 20221134: " + tabelaHash.pegarValor(20221134));
+        System.out.println("Pegando aluno com matrícula 20212345: " + tabelaHash.pegarValor(20212345));
     }
 }
