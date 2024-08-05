@@ -15,7 +15,7 @@ public class HashTeste{
         tabela.removerValor(123);
         System.out.println("Nome do aluno com matrícula 123 após remoção: " + tabela.pegarValor(123));
 
-        System.out.println("Estado atual da tabela: " + tabela.toString());
+        System.out.println("Estado atual da tabela: " + tabela);
     }
 }
 

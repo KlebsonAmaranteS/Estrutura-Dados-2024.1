@@ -79,7 +79,7 @@ public class TabelaHash {
             }
 
             if (tabela[i] != null && tabela[i].getMatricula() == matricula) {
-                tabela[i] = REMOVIDO; 
+                tabela[i] = REMOVIDO;
                 count--; 
                 return;
             }
@@ -90,6 +90,5 @@ public class TabelaHash {
     public String toString() {
         return "TabelaHash [tabela=" + Arrays.toString(tabela) + "]";
     }
-
-    
 }
+
