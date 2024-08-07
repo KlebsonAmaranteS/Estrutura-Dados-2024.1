@@ -109,7 +109,7 @@ public class ArvoreBinaria {
 
     public boolean removerFim() {
         if (raiz == null) {
-            return false; // Árvore vazia
+            return false; 
         }
     
         No pai = null;
