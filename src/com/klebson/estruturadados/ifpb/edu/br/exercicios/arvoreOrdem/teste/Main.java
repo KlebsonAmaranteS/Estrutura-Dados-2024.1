@@ -1,6 +1,6 @@
-package com.klebson.estruturadados.ifpb.edu.br.exercicios.arvoreAVL.teste;
+package com.klebson.estruturadados.ifpb.edu.br.exercicios.arvoreOrdem.teste;
 
-import com.klebson.estruturadados.ifpb.edu.br.exercicios.arvoreAVL.Arvore;
+import com.klebson.estruturadados.ifpb.edu.br.exercicios.arvoreOrdem.Arvore;
 
 public class Main {
     public static void main(String[] args) {

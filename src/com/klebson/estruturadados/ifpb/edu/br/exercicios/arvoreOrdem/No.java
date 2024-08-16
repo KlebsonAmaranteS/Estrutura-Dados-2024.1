@@ -1,4 +1,4 @@
-package com.klebson.estruturadados.ifpb.edu.br.exercicios.arvoreAVL;
+package com.klebson.estruturadados.ifpb.edu.br.exercicios.arvoreOrdem;
 
 public class No {
     private int elemento;
